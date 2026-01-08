@@ -14,7 +14,7 @@ I built a custom Python bot that automates this entire workflow:
 )
 
 ### 📂 View The Data
-[Click here to download the sample Excel file]()
+Check The Lead Generation Data Scraped.xlsx file for results
 
 ---
 *Need a custom scraper for your business? Message me for a free sample.*
